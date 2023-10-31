@@ -1,6 +1,6 @@
 # soulcare
 
-![Soulcare Banner](https://github.com/RThetaPi-India/FT-Defenders-Suicide-Prevention-App/blob/main/assets/SoulCare%20Background.png)
+![Soulcare Banner](https://github.com/heyprincesingh/SoulCare/blob/master/assets/SoulCare%20Playstore%20Banner.png)
 
 In today's fast-paced and often overwhelming world, taking care of our mental and emotional well-being is more important than ever. That's why the concept of soul care has gained significant attention and importance. One powerful tool in this realm is the development of a suicide prevention application that aims to assist users in their journey toward healing and overcoming difficult situations.
 
